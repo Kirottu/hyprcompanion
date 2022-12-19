@@ -33,5 +33,5 @@ wsbind=29,HDMI-A-2
 When Hyprland is set up to handle it set up your workspace binds to run hyprcompanion with the appropriate arguments. Same goes for the display functionality.
 
 # Credits
-[hyprland-rs](https://github.com/hyprland-community/hyprland-rs): The library for interfacing with Hyprland
-[hyprsome](https://github.com/sopa0/hyprsome): Inspiration, made this due to some issues with it and for fun
+- [hyprland-rs](https://github.com/hyprland-community/hyprland-rs): The library for interfacing with Hyprland
+- [hyprsome](https://github.com/sopa0/hyprsome): Inspiration, made this due to some issues with it and for fun
